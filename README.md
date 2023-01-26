@@ -2,9 +2,9 @@
 
 ## Hi, everyone! 👋🏼
 
-My name is Chris. I am 29 years old & a passionate open-source developer who loves to travel the world, learn about new cultures & eat good food.
+My name is Avery. I am 28 years old & a passionate event planner who loves to travel the world, learn about new cultures & eat good food.
 
-In case I am not traveling the world, I live in Los Angeles, CA. At the moment, though, my wife and I (+ our two dogs, Buddy & Lulu) are traveling for a couple more months. So, if you ever want to meet up, let us know—we would love to swing by for a drink/snack—no matter where in the world!
+In case I am not traveling the world, I live in Playa Vista, CA. ...
 
 ### A few highlights
 
@@ -14,23 +14,8 @@ In case I am not traveling the world, I live in Los Angeles, CA. At the moment, 
 
 ### Current Focus
 
-Aside from core Stacks development, these are the stacks we will finish next:
+wip
 
-- [Table](https://github.com/stacksjs/table) (Data tables with ease)
-- [Command Palette](https://github.com/stacksjs/command-palette) (`cmd + k` for the web)
-- [Date Picker](https://github.com/stacksjs/date-picker) (Beautiful, modern date picker)
-- [File Manager](https://github.com/stacksjs/file-manager) (Build your own file manager—like Dropbox or Google Drive)
-- [Image](https://github.com/stacksjs/image) (Modern image experience)
-- [Video](https://github.com/stacksjs/video) (Modern video experience)
-- [Audio](https://github.com/stacksjs/audio) (Modern audio experience)
-- [Web3](https://github.com/stacksjs/web3) (Solana support, cross-chain core _Ethereum & Cardano drivers coming._)
-  - [Wallets](https://github.com/stacksjs/wallets) (Wallet Authentication)
-  - [NFT](https://github.com/stacksjs/nft) (NFTs, Candy Machine mechanisms, and more.)
-  - [DeFi](https://github.com/stacksjs/defi) (Cross-chain DeFi engine, including staking support)
-  - [DAO](https://github.com/stacksjs/dao) (Powerful toolkit for DAO governance)
+Connect with me here or on Discord. I would love to hear from you!
 
-Timelines, in all likelihood, will change a lot but you may use those as indications of priorities.
-
-Connect with me here or on Twitter. I would love to hear from you!
-
-_Oh, and say hi to [Buddy](https://www.instagram.com/somebuddyspecial/), the partner in crime!_
+_Oh, and say hi to [Buddy](https://www.instagram.com/somebuddyspecial/)!_
